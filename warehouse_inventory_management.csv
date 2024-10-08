@@ -1,0 +1,11 @@
+Item_ID,Item_Name,Category,Stock_Level,Reorder_Level,Supplier,Warehouse_Location,Days_to_Reorder,Average_Lead_Time_Days,Cost_per_Unit,Demand_Per_Month
+101,Widget A,Widgets,150,100,Supplier A,Location 1,10,5,50,100
+102,Gadget B,Gadgets,85,50,Supplier B,Location 2,15,7,75,80
+103,Tool C,Tools,60,40,Supplier C,Location 1,12,6,30,50
+104,Part D,Parts,120,100,Supplier D,Location 3,8,10,25,110
+105,Component E,Components,30,20,Supplier E,Location 2,20,8,120,20
+106,Device F,Devices,200,150,Supplier F,Location 4,5,4,150,180
+107,Material G,Materials,175,130,Supplier G,Location 3,7,3,90,160
+108,Product H,Products,90,80,Supplier H,Location 1,10,6,40,75
+109,Accessory I,Accessories,45,30,Supplier I,Location 4,18,9,60,30
+110,Equipment J,Equipment,250,200,Supplier J,Location 2,6,5,200,220
